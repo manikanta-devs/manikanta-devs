@@ -1,76 +1,65 @@
-<h1 align="center">Hi 👋, I'm Manikanta</h1>
-<h3 align="center">🚀 MCA Student | Aspiring Software Developer</h3>
+# Hi 👋, I'm Manikanta
 
-<p align="center">
-💻 Passionate about AI & Web Development <br>
-📊 Building real-world projects to grow my skills
-</p>
+**MCA Student | Aspiring Software Developer**
+
+💻 Passionate about AI & Web Development | 📊 Building real-world projects to grow my skills
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Student  
-- 💻 Currently learning **Full Stack Development & AI**  
-- 💡 Interested in **Finance + Technology**  
-- 🎯 Goal: Become a Software Developer  
+- 🎓 **Master of Computer Applications (MCA)** Student  
+- 💻 Currently learning **Full Stack Development & Artificial Intelligence**  
+- 💡 Interested in the intersection of **Finance and Technology**  
+- 🎯 Goal: Build impactful software solutions as a professional developer  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙️ Backend (Learning)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Database (Learning)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 💰 Expense Tracker Web App *(Coming Soon)*  
-- 🤖 AI Finance Assistant *(Coming Soon)*  
-- 🌐 Portfolio Website *(Coming Soon)*  
+| Project | Description | Status |
+|---------|-------------|--------|
+| Expense Tracker Web App | Comprehensive expense management application | Coming Soon |
+| AI Finance Assistant | Intelligent financial guidance tool | Coming Soon |
+| Portfolio Website | Professional portfolio showcase | Coming Soon |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manikanta-devs&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta-devs&theme=tokyonight"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=manikanta-devs&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <br />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta-devs&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Get In Touch
 
-- 📧 Email: manikanta26.dev@gmail.com  
+- **Email:** manikanta26.dev@gmail.com
 
 ---
 
-⭐️ From [manikanta-devs](https://github.com/manikanta-devs)
-<!--
-**manikanta-devs/manikanta-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>⭐️ Profile Repository:</strong> <a href="https://github.com/manikanta-devs">manikanta-devs</a>
+</p>
